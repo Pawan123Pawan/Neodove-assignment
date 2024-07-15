@@ -105,9 +105,6 @@ We welcome contributions to make SyncTalk even better! Please fork the repositor
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or feedback, please open an issue or contact us at [lakshaykamat.dev@gmail.com].
 
 ---
 
